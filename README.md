@@ -55,20 +55,20 @@ All `departure time` values are Unix timestamps representing seconds since Janua
 
 ### Canadian Airports (ICAO Codes)
 
-| Code | Airport | City |
-|------|---------|------|
-| CYYZ | Toronto Pearson | Toronto, ON |
-| CYVR | Vancouver International | Vancouver, BC |
-| CYUL | Montreal-Trudeau | Montreal, QC |
-| CYYC | Calgary International | Calgary, AB |
-| CYOW | Ottawa Macdonald-Cartier | Ottawa, ON |
-| CYWG | Winnipeg Richardson | Winnipeg, MB |
-| CYHZ | Halifax Stanfield | Halifax, NS |
-| CYEG | Edmonton International | Edmonton, AB |
-| CYQB | Quebec City Jean Lesage | Quebec City, QC |
-| CYYJ | Victoria International | Victoria, BC |
-| CYYT | St. John's International | St. John's, NL |
-| CYXE | Saskatoon International | Saskatoon, SK |
+| Code | Airport | City | Latitude | Longitude |
+|------|---------|------|----------|-----------|
+| CYYZ | Toronto Pearson | Toronto, ON | 43.68°N | 79.63°W |
+| CYVR | Vancouver International | Vancouver, BC | 49.19°N | 123.18°W |
+| CYUL | Montreal-Trudeau | Montreal, QC | 45.47°N | 73.74°W |
+| CYYC | Calgary International | Calgary, AB | 51.11°N | 114.02°W |
+| CYOW | Ottawa Macdonald-Cartier | Ottawa, ON | 45.32°N | 75.67°W |
+| CYWG | Winnipeg Richardson | Winnipeg, MB | 49.91°N | 97.24°W |
+| CYHZ | Halifax Stanfield | Halifax, NS | 44.88°N | 63.51°W |
+| CYEG | Edmonton International | Edmonton, AB | 53.31°N | 113.58°W |
+| CYQB | Quebec City Jean Lesage | Quebec City, QC | 46.79°N | 71.39°W |
+| CYYJ | Victoria International | Victoria, BC | 48.65°N | 123.43°W |
+| CYYT | St. John's International | St. John's, NL | 47.62°N | 52.75°W |
+| CYXE | Saskatoon International | Saskatoon, SK | 52.17°N | 106.70°W |
 
 ### Aircraft Types
 
