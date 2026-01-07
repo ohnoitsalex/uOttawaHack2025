@@ -133,7 +133,7 @@ All `departure time` values are Unix timestamps representing seconds since Janua
 | Wide-body (787, 777, A330) | 31,000 ft | 43,000 ft | 37,000-41,000 ft |
 | Cargo (767F, 757F, A300F) | 28,000 ft | 41,000 ft | 35,000-39,000 ft |
 
-### Speed
+### Speed Constraints
 | Aircraft Type | Cruise Speed | Minimum Speed | Maximum Speed |
 |---------------|--------------|---------------|---------------|
 | Turboprops (Dash 8) | 360 knots | 310 knots | 410 knots |
