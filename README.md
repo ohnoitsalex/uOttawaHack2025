@@ -14,14 +14,6 @@ Create a tool for the national flight planning center that extracts insights fro
 - ❌ Waypoints are fictional and do not represent actual navigation routes
 - ❌ Aircraft performance characteristics are generalized approximations
 
-### Data Accuracy
-
-**Synthetic Elements:**
-- All flight numbers, schedules, and routes are computer-generated
-- Passenger counts are randomly generated within realistic ranges
-- Waypoints do not correspond to real NAVAIDs or GPS coordinates used in aviation
-- Conflict detection parameters are simplified for educational purposes
-- Aircraft performance (speed, altitude, climb rates) are approximate averages
 
 ## JSON Format
 
