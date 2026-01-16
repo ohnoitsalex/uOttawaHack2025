@@ -42,7 +42,7 @@ Create a tool for the national flight planning center that extracts insights fro
 |-------|------|-------------|---------|
 | `ACID` | string | Flight callsign (3-letter airline + 3 digits) | `"ACA101"` |
 | `Plane type` | string | Aircraft model | `"Boeing 787-9"` |
-| `route` | string | Space-separated waypoints in format LAT°N/LON°W | `"49.97N/110.935W 49.64N/92.114W"` |
+| `route` | string | Space-separated waypoints in format LAT°N/LON°W. These are the points that the aircraft will fly between departure and arrival airport. | `"49.97N/110.935W 49.64N/92.114W"` |
 | `altitude` | integer | Cruising altitude in feet | `37000` |
 | `departure airport` | string | ICAO airport code | `"CYYZ"` |
 | `arrival airport` | string | ICAO airport code | `"CYVR"` |
